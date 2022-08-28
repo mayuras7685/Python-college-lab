@@ -33,7 +33,8 @@ for i in str2:
     break
   print(i)
 
-""" output : A
+""" output : 
+A
 B
 C
 D
